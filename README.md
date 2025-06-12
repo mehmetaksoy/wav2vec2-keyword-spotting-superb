@@ -320,7 +320,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 Proje hakkında sorularınız için:
 - GitHub Issues üzerinden soru sorabilirsiniz
-- E-posta: [sizin-email@domain.com]
+- E-posta: [mehmetaksoy49@gmail.com]
 
 ## 🙏 Teşekkürler
 
