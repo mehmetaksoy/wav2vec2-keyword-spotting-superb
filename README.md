@@ -317,13 +317,6 @@ plt.show()
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
 
 
-## 📞 İletişim
-
-🐛 **Bug Report**: GitHub Issues kullanın  
-💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
-📧 **İletişim**: Repository sahibi ile iletişime geçin
-- E-posta: [mehmetaksoy49@gmail.com]
-
 
 ## 🙏 Teşekkürler
 
@@ -370,3 +363,16 @@ Bu proje aşağıdaki açık kaynak projeleri kullanmaktadır:
 📊 Veri Katmanı: SUPERB ks Dataset
 ⚡ Donanım: NVIDIA L4 GPU
 ```
+
+## 📞 İletişim
+
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
+
+- Pull Request ile katkıda bulunun
+- Projeyi yıldızlamayı unutmayın! ⭐
+
+---
+
+**Not**: Bu proje eğitim amaçlı geliştirilmiştir ve akademik çalışmalarda referans olarak kullanılabilir.
