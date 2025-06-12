@@ -316,11 +316,14 @@ plt.show()
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
 
-## 📧 İletişim
 
-Proje hakkında sorularınız için:
-- GitHub Issues üzerinden soru sorabilirsiniz
+## 📞 İletişim
+
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 **İletişim**: Repository sahibi ile iletişime geçin
 - E-posta: [mehmetaksoy49@gmail.com]
+
 
 ## 🙏 Teşekkürler
 
